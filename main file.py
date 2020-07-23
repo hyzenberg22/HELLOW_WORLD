@@ -1,0 +1,5 @@
+print('Welcome to the Magical world of the python')
+val=input('please enter your name:- ')
+print(f'Hellow {val} wolcome to the of coding ')
+print(f'The length of your name with spaces is:-{len(val)}')
+print('THANK YOU FOR USING MY CODE')
